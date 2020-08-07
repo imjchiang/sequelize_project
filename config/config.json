@@ -3,7 +3,7 @@
   {
     "username": "imjchiang",
     "password": 5375,
-    "database": "sequelize_project_development",
+    "database": "sequelize_project",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
